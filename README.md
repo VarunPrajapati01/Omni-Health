@@ -25,24 +25,20 @@
 
 ### Installation
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/MuditNITKKR/Omni-Health.git
-   cd Omni-Health
-   ```
 
-2. **Set up a Virtual Environment**
+
+1. **Set up a Virtual Environment**
    ```bash
    python -m venv .venv
    source .venv/bin/activate  # On Windows: .venv\Scripts\activate
    ```
 
-3. **Install Production Dependencies**
+2. **Install Production Dependencies**
    ```bash
    pip install -r requirements.txt
    ```
 
-4. **Launch the Portal**
+3. **Launch the Portal**
    ```bash
    streamlit run app.py
    ```
