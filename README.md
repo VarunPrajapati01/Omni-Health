@@ -141,11 +141,5 @@ except Exception:
 
 ---
 
-## 👥 Authors & Contributors
-
-* **Mudit** - *Project Lead & Core AI Engineer* - [GitHub Profile](https://github.com/MuditNITKKR)
-* **NIT Kurukshetra** - *Academic Sponsor (Artificial Intelligence & Machine Learning Engineering)*
-
----
 
 **Made with ❤️ by Mudit at NIT Kurukshetra** *Last System Architecture Alignment: April 2026*
