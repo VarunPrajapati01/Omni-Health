@@ -141,5 +141,3 @@ except Exception:
 
 ---
 
-
-**Made with ❤️ by Mudit at NIT Kurukshetra** *Last System Architecture Alignment: April 2026*
